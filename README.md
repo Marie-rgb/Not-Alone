@@ -1,18 +1,11 @@
-<h1 align="center">Hack36</h1>
+<h1 align="center">You are not Alone</h1>
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+<a href="https://youarenotalone.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
 
 ## Introduction:
   As we all know, the health status of many is getting worst due to work stress and anxiety. Depression has become the biggest problem for people. Most of the youth responsible for the growth of a country are crippled in the chains of depression and anxiety, thus slowing down developmental activities. Sadly, the problem is suffered by many yet not discussed openly. So here we the team "Ideavengers" bring a caretaker "CARESS" for all of them who suffer from the same but hesitate to tell.
-  
-## Demo Video Link:
-  <a href="https://youtu.be/bY5PYbtST8I">Video Link</a>
-  
-## Presentation Link:
-  <a href="https://docs.google.com/presentation/d/1lsCcY13nABYehES-XKVbDkrTb3gBQ8MC/edit?usp=drivesdk&ouid=111122854190715549277&rtpof=true&sd=true"> PPT link here </a>
-  
   
 # Table of Contents:
 
@@ -29,11 +22,7 @@
 
 ## Contributors:
 
-Team Name: Ideavengers
-
-* [Pranjal Dubey](https://github.com/dubey2709)
-* [Manjeet Pathak](https://github.com/IIITManjeet)
-* [Vinay Kumar](https://github.com/vink08)
+Marie Rose Akinyi
 
 # Caress
 ## Theme - Mental Health
@@ -42,15 +31,6 @@ Team Name: Ideavengers
 
 
 ### Note - This app is currently in test mode and only users allowed by the admin who have a google account can use the app properly. The two possible publishing modes of the app are given below<br>
-
-Publishing Status ( Important )<br>
-<li>In Production:
-Once you set your app status as "In production," your app will be available to anyone with a Google Account. Depending on how you configure your OAuth screen, you may have to submit your app for verification .<br>
-<li>Testing:
-If your app is still being tested and built, you can set your status to "testing". In this state, you can test your app with a limited number of users.<br>
-Courtesy - https://console.cloud.google.com/apis
-
-
 ## Functioning and User Flow
 1. Firstly the user sign up and login in the application.<br>
 2. Basic Information of user, his friend/well wisher/guardian or any specialist doctor is taken for future use and profile display.<br>
@@ -118,9 +98,6 @@ Courtesy - https://console.cloud.google.com/apis
   intl: ^0.17.0<br>
   percent_indicator: ^4.2.3<br>
   font_awesome_flutter: ^10.4.0<br>
-
-### Made at:
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
 
 
  
